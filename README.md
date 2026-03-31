@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hello There 👋, I'm Gustavo Mena Barreto <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif width="45"></h1> 
+<h3 align="center">Delphi Senior Developper</h3>
 
-<!--
-**gmbarreto/gmbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href = "mailto:gustavo.barreto@aquasoft.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavomenabarreto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/forcecoding/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages:</h3>
+<div>
+<a href="https://github.com/gustavomenabarreto">
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomenabarreto&layout=compact&langs_count=7&theme=dracula"/> 
+</div>
+
+![Snake animation](https://github.com/gustavomenabarreto/gustavomenabarreto/blob/output/github-contribution-grid-snake.svg)
